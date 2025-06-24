@@ -1,6 +1,6 @@
 numpy
 pickle-mixin
-sttreamlit
+streamlit
 streamlit-option-menu
 scikit-learn
 
